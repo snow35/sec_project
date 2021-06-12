@@ -1,0 +1,16 @@
+.ok_go{
+	width:200;
+	height: 50;
+	position:relative;
+	top:600;
+	left:640;
+	border-radius:10px;
+	background:rgb(33, 82, 204);
+	font:600 16px/18px 'Open Sans',sans-serif;
+}
+.caution_txt .main{
+    position:relative;
+	top:400;
+    text-align:center;
+    font:600 20px/22px 'Open Sans',sans-serif;
+}

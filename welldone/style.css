@@ -1,0 +1,33 @@
+.thumbup{
+    position:absolute;
+    width:200;
+	height: 50;
+    top:200;
+	left:640;
+}
+
+.welldone_txt .main{
+    position:absolute;
+	
+    text-align:center;
+    font:600 20px/22px 'Open Sans',sans-serif;
+}
+
+.welldone_txt .letgo{
+    position:absolute;
+	top:500;
+	left:440;
+    text-align:center;
+    font:600 20px/22px 'Open Sans',sans-serif;
+}
+
+.gogo{
+    width:200;
+	height: 50;
+	position:absolute;
+	top:600;
+	left:640;
+	border-radius:10px;
+	background:rgb(33, 82, 204);
+	font:600 16px/18px 'Open Sans',sans-serif;
+}
